@@ -10,8 +10,8 @@ public class RestAPITest {
 		System.out.println("postjira");
 		System.out.println("postjira1");
 		System.out.println("postjira2");
-		System.out.println("post");
-		System.out.println("postj");
+		System.out.println("amma");
+		System.out.println("appa");
 	}
 	
 
