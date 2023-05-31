@@ -12,6 +12,8 @@ public class RestAPITest {
 		System.out.println("postjira2");
 		System.out.println("amma");
 		System.out.println("appa");
+		System.out.println("paramu");
+		System.out.println("muthu");
 	}
 	
 
