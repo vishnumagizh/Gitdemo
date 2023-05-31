@@ -26,5 +26,14 @@ public class RestAPITest {
 
 		
 	}
+	@Test
+	public void deletetwitte()
+	{
+		System.out.println("hope");
+		System.out.println("god");
+		System.out.println("cucu");
+
+		
+	}
 
 }
