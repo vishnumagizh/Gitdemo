@@ -8,6 +8,7 @@ public class SeleniumTest {
 	public void browserautomation()
 	{
 		System.out.println("Browserautomation");
+		System.out.println("jenkins");
 	}
 	
 
@@ -15,6 +16,7 @@ public class SeleniumTest {
 	public void elementsui()
 	{
 		System.out.println("elementsui");
+		System.out.println("sql");
 	}
 	
 
