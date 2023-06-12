@@ -16,6 +16,8 @@ public class AppiumTest {
 	public void IOSapps()
 	{
 		System.out.println("IOSapps");
+		System.out.println("kitkat");
+        System.out.println("milky");
 	}
 
 }
